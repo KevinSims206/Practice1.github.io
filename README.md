@@ -3,3 +3,7 @@
 use the link to run the website
 
 https://kevinsims206.github.io/Practice1.github.io/
+
+or 
+
+https://kevinsims.github.io/
